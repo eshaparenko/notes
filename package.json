@@ -1,0 +1,18 @@
+{
+  "name": "tech-notes-mern",
+  "version": "1.0.0",
+  "description": "Tech Notes MERN project",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server",
+    "dev": "nodemon server"
+  },
+  "author": "Eugene Shaparenko",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
